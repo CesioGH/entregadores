@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="nameEditText" type="id" />
+    <item name="lastNameEditText" type="id" />
+    <item name="cpfEditText" type="id" />
+    <item name="enderecoEditText" type="id" />
+    <item name="profileImageView" type="id" />
+    <item name="uploadProfileImageButton" type="id" />
+    <item name="cnhImageView" type="id" />
+    <item name="uploadCnhImageButton" type="id" />
+    <item name="registerButton" type="id" />
+</resources>

@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "608559166866",
+    "project_id": "telefonesms-9ab90",
+    "storage_bucket": "telefonesms-9ab90.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:608559166866:android:9aa22820120f0c70887d4b",
+        "android_client_info": {
+          "package_name": "com.example.entregadores"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBa4sffbyfcAFp9uBROeYVU_NGOyeZOHCQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
